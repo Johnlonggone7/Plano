@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+      <defs>
+        <linearGradient id="plano-g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#8fd3fb" />
+          <stop offset="1" stop-color="#2a76c0" />
+        </linearGradient>
+      </defs>
+      <rect x="20" y="20" width="472" height="472" rx="118" fill="url(#plano-g)" />
+      <rect x="52" y="52" width="408" height="408" rx="88" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="6" />
+      <g fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="268" cy="262" r="176" />
+        <path d="M170 86V440" />
+        <path d="M170 150H268A98 98 0 0 1 268 346C214 346 170 376 170 440" />
+        <path d="M72 150H170M118 70V200" stroke-width="5" stroke-opacity=".75" />
+      </g>
+      <path d="M268 190L277 238L325 248L277 258L268 306L259 258L211 248L259 238Z" fill="#fff" />
+      <path d="M236 216l-14-14M300 216l14-14M236 280l-14 14M300 280l14 14" stroke="#fff" stroke-width="6" stroke-linecap="round" />
+    </svg>
